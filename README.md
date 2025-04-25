@@ -39,6 +39,6 @@ This document describes a Project-Based Learning (PBL) activity for the Introduc
 ## 🔌 Circuit
 
 <p align="center">
-  <img src="docs/PBL_Example_Project_Diagram.png" width="600" alt="Fritzing schematic">
+  <img src="docs/PBL_Example_Circuit_Diagram.png" width="600" alt="Fritzing schematic">
 </p>
 
